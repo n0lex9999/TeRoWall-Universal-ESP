@@ -24,6 +24,6 @@ Working on many roblox game
 1. paste this into your executor and enjoy!
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/n0lex9999/TeroWall-Universal-ESP/refs/heads/main/TeroWall.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/n0lex9999/TeRoWall-Universal-ESP/refs/heads/main/TeroWall.lua"))()
 
 
