@@ -10,18 +10,14 @@ Working on many roblox game
 ## FEATURES
 
 [+] ESP
-
 [+] Health
-
 [+] Distance
-
 [+] Name
-
 [+] Glow
-
 [+] Team
-
 [+] LookLine
+
+---------------------------------------------------------
 
 ### Download
 
