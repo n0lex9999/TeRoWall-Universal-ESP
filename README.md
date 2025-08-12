@@ -23,4 +23,9 @@ Working on many roblox game
 
 [+] LookLine
 
+### Download
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/n0lex9999/TeroWall-Universal-ESP/refs/heads/main/TeroWall.lua"))()
+
 
