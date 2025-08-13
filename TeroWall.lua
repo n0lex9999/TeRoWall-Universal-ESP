@@ -198,7 +198,7 @@ end
 local screenGui = create("ScreenGui", {
     Parent = LocalPlayer:WaitForChild("PlayerGui"), 
     ResetOnSpawn = false, 
-    Name = "UniversalESP"
+    Name = "TeRo Wall"
 })
 
 local main = create("Frame", {
@@ -250,7 +250,7 @@ local title = create("TextLabel", {
     Size = UDim2.new(0.6, 0, 1, 0), 
     Position = UDim2.new(0.02, 0, 0, 0)
 })
-title.Text = "Universal ESP"
+title.Text = "TeRo Wall"
 title.Font = Enum.Font.GothamBold
 title.TextColor3 = Config.AccentColor
 title.TextSize = 22
@@ -364,7 +364,7 @@ local homeDesc = create("TextLabel", {
 homeDesc.Font = Enum.Font.Gotham
 homeDesc.TextSize = 14
 homeDesc.TextColor3 = Color3.fromRGB(200,200,200)
-homeDesc.Text = "Universal ESP works in any Roblox game. Configure ESP settings, track players, and customize visual elements. Use the tabs on the left to navigate between different features."
+homeDesc.Text = "TeRo Wall works in any Roblox game. Configure ESP settings, track players, and customize visual elements. Use the tabs on the left to navigate between different features."
 homeDesc.TextWrapped = true
 homeDesc.BackgroundTransparency = 1
 
@@ -1075,3 +1075,4 @@ print("F2 - Toggle Show Enemies")
 print("F3 - Toggle Show Team")
 print("F4 - Toggle Glow Effect")
 print("F5 - Toggle Look Line")
+
